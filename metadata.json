@@ -1,0 +1,5 @@
+{
+  "name": "Gerenciador de Estoque Simples",
+  "description": "Um aplicativo de controle de estoque simples, adaptável e moderno, com login de usuário e funcionalidades de exportação para PDF e Excel.",
+  "requestFramePermissions": []
+}
